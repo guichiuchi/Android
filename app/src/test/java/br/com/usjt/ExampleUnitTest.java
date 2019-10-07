@@ -1,4 +1,4 @@
-package com.judeoemurilo.aula02;
+package br.com.usjt;
 
 import org.junit.Test;
 

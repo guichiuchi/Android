@@ -1,6 +1,3 @@
 <resources>
-    <string name="app_name">Testando Aplicação</string>
-    <string name="edit_message">Digite uma mensagem</string>
-    <string name="button_send">Enviar texto</string>
-    <string name="exibir_TextoTextView"></string>
+    <string name="app_name">My Application</string>
 </resources>
